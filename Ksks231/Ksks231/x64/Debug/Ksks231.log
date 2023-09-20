@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(202,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(205,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(208,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(215,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(215,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\mavr\source\ksks\Ksks231\Ksks231\MyForm.h(502,57): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Ksks231.vcxproj -> C:\Users\mavr\source\ksks\Ksks231\x64\Debug\Ksks231.exe
